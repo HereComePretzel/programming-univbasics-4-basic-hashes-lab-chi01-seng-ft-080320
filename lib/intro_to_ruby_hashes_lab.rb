@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  hash = {camel: winter}
+  hash = {:camel => winter}
 end
 
 def pioneer
